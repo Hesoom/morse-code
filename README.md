@@ -4,6 +4,16 @@ Simple Python CLI app to encrypt text to Morse code or decrypt Morse code back t
 
 ---
 
+## 🚀 Features
+
+- Translate English text to Morse code
+- Translate Morse code to English text
+- Supports letters, numbers, common punctuation
+- Gracefully handles unknown characters
+- Robust against input errors — won’t crash!
+
+---
+
 ## Example
 
 ```
